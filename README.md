@@ -1,5 +1,8 @@
 # Cloud Service Resource Anomaly Classification
 
+
+![Prediction Demo](demo.gif)
+
 ## 1. Project Overview
 
 This project develops a machine learning system for detecting unusual resource-usage observations in a simulated cloud-service environment.
